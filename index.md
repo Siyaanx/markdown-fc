@@ -11,3 +11,8 @@
 import random
 random.randint(1,7)
 ```
+
+### Exercise 4: Adding a task list
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
