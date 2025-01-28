@@ -5,3 +5,9 @@
 
 ### Exercise 2: Adding an image
 ![Image of Cloud above a river](https://unsplash.com/photos/body-of-water-near-trees-under-blue-sky-during-daytime-oalS6SkZc_s)
+
+### Exercise 3: Adding codes
+```python
+import random
+random.randint(1,7)
+```
